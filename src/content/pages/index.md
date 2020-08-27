@@ -8,4 +8,6 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda but we need to klnow how much text we can get on the home page.
+
+this is a thing t hat we do not know right now but we really do need to know it.
